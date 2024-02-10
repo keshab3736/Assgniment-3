@@ -192,4 +192,4 @@ def game_over(screen, text):
                     waiting = False
 
 if __name__ == "__main__":
-    main()
+   main()
